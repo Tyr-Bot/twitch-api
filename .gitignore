@@ -44,3 +44,5 @@ gradle-app.setting
 
 ### Dynamic Versioning
 **/resources/gradleConfig
+
+.env
